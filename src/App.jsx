@@ -25,7 +25,7 @@ function App() {
           <div className="rp">Related Posts</div>
         </div>
       </div>
-      <div className="footer">Footer</div>
+      <div className="footer">SYSTEMS INTEGRATION AND ARCHITECTURE LECTURE</div>
     </div>
   )
 }
